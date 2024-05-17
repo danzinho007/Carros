@@ -1,0 +1,41 @@
+Aula 01 – Como não deixar o carro morrer | Controle dos pedais
+
+Conhecendo os pedais :
+
+Embreagem = pé esquerdo
+-Mudar marcha 
+-Parar o veículo
+-Sair do veículo
+
+Freio = Meio com o pé direito
+
+Acelerador = pé direito
+
+Ligar o carro :
+Pisa no freio e pesa na Embreagem
+Coloca em Ponto morto e tira a Embreagem
+Liga o carro
+
+Parar o carro :
+Pisa no freio 
+Aciona a Embreagem até o final
+
+Aula 02 – Como sair com o carro sem deixar morrer | Passo a passo
+
+Aula 03 – Como mudar as marchas do carro corretamente | Tudo sobre marchas
+
+Marcha Ré = Sempre nas extremidades
+Ponto morto = Entre a 3° e 4° marcha
+Velocidade e Força = Grandezas opostas
+
+Marcha :
+1°  = Força
+2°  = 20 km/h + Força - Velocidade
+3°  = 40 km/h 
+4°  = 60 km/h + Velocidade - Força
+5°  = 80 km/h
+
+Aula 04 – Como virar corretamente o volante do carro | Tudo sobre volante
+
+Aula 05 – O que fazer no exame de direção
+
